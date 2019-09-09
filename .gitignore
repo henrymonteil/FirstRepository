@@ -1,0 +1,4 @@
+# we want to ignore files ending with .log
+
+*.log
+
